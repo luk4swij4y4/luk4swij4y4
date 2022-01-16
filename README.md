@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luk4swij4y4
+- 👋 Hi, I’m Azmi Rahman @luk4swij4y4
 - 👀 I’m interested in Blockchain development
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Flashloan
